@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/smartaddons_megaproducts",
+    "name": "OpenMageModuleFostering\/smartaddons_megaproducts",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
     "description": "smartaddons_megaproducts",
     "authors": [
-    {
-        "name": "magentech.com",
-        "email": "contact@ytcvn.com"
-    }
-],
+        {
+            "name": "magentech.com",
+            "email": "contact@ytcvn.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
